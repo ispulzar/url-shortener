@@ -36,7 +36,6 @@ body {
 .editpage {
   display: flex;
   flex-direction: row;
-  gap: var(--separador-md);
   width: 100%;
   justify-content: center;
 }

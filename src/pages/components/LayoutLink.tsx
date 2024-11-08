@@ -8,7 +8,7 @@ function LayoutLink() {
       <div className="logo"></div>
       <div className="links">
         <button>link</button>
-      </div>
+      </div>  
     </div>
   );
 }

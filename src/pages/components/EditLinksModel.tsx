@@ -4,7 +4,7 @@ function EditLinksModel() {
   return (
     <div className="editlinksmodel">
       <LayoutLink />
-      <button >Añadir enlace</button>
+      <button>Añadir enlace</button>
     </div>
   );
 }
